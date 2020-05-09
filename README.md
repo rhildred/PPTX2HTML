@@ -4,7 +4,7 @@ PPTX2HTML
 
 PPTX2HTML can convert MS-PPTX file to Reveal.js HTML by using pure javascript.  
 Support Chrome, Firefox, IE>=10 and Edge.  
-Here is the [Online DEMO] page.
+Here is the [Online DEMO](https://rhildred.github.io/PPTX2HTML) page.
 
 I (Rich Hildred) needed this for remote teaching during the COVID 19 pandemic. I needed to convert the PowerPoint from when my 3rd year database course was taught in a classroom and a lab. I could then insert the lab demo right in to the now Reveal.js presentation.
 
